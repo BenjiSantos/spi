@@ -1,0 +1,4 @@
+<resources>
+    <string name="menu">Bienvenido</string>
+    <string name="sign_in_button">Autenticación</string>
+</resources>
