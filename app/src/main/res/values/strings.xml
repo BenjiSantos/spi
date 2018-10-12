@@ -1,4 +1,48 @@
 <resources>
     <string name="menu">Bienvenido</string>
     <string name="sign_in_button">Autenticación</string>
+    <string name="first_nav">ANULACIÓN</string>
+    <string name="second_nav">PREGUNTAS 1</string>
+    <string name="third_nav">PREGUNTAS 2</string>
+
+    <string name="app_name">QW SUPERVISIÓN</string>
+
+    <string name="imei_validating">Validando IMEI..</string>
+    <string name="login_message" translatable="false">Validando Datos..</string>
+    <string name="sign_in_message" translatable="false">Iniciando Sesión..</string>
+    <string name="reg_message" translatable="false">Cargando Registro..</string>
+    <string name="acta_message" translatable="false">Cargando Acta..</string>
+    <string name="sync_providers">Cargando Proveedores..</string>
+
+    <string name="retry_button">REINTENTAR</string>
+
+    <string name="error_network">Conexión de red no disponible</string>
+    <string name="error_permission">Permiso denegado</string>
+    <string name="error_invalid_imei">IMEI no registrado / activado</string>
+
+    <string name="logo_description">Logo de QaliWarma</string>
+
+    <string name="error_user_required" translatable="false">Digite usuario</string>
+    <string name="error_password_required" translatable="false">Digite contraseña</string>
+    <string name="error_invalid_user" translatable="false">Usuario inválido</string>
+    <string name="error_invalid_password" translatable="false">Contraseña inválida</string>
+
+    <string name="error_sync_fichas" translatable="false">Fichas</string>
+    <string name="error_sync_preguntas" translatable="false">No se sincronizaron preguntas</string>
+    <string name="error_sync_formatos" translatable="false">No se sincronizaron formatos</string>
+    <string name="error_sync_fichas_tecnicas" translatable="false">No se sincronizaron Fichas Tecnicas</string>
+    <string name="error_sync_componentes" translatable="false">No se sincronizaron Componentes</string>
+    <string name="error_sync_providers" translatable="false">No se sincronizaron proveedores</string>
+
+    <string name="error_modular_crono" translatable="false">No hay cronogramas de entrega relacionados con la Fecha de Supervisión para el Código Modular:</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="permission_rationale">Permiso de ubicación es necesario para la funcionalidad de la aplicación.</string>
+    <string name="permission_denied_explanation">El permiso fue denegado, pero es necesario para la funcionalidad de la aplicación.</string>
+    <string name="settings">Configuración</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
