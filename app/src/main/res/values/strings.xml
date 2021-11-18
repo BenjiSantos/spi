@@ -1,5 +1,5 @@
 <resources>
-    <string name="menu">Bienvenido</string>
+    <string name="menu">WELCOME</string>
     <string name="sign_in_button">Autenticación</string>
     <string name="first_nav">ANULACIÓN</string>
     <string name="second_nav">PREGUNTAS 1</string>
